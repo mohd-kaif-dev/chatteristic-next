@@ -5,13 +5,12 @@
 
 ## Overview
 
-**Chatteristic Next** is a modern web application designed to provide a rich, interactive chat experience. Built with the latest technologies, it brings efficient real-time communication, a beautiful interface, and scalable architecture. This project is ideal for developers seeking a solid foundation for chat-based apps or anyone interested in modern web development practices.
+**Chatteristic Next** is a modern web application designed to provide a rich, interactive social media experience. Built with the latest technologies, it brings efficient real-time communication, a beautiful interface, and scalable architecture. This project is ideal for developers seeking a solid foundation for social media app or anyone interested in modern web development practices.
 
 > **Live Demo:** [https://chatteristic-next.vercel.app](https://chatteristic-next.vercel.app)
 
 ## Features
 
-- ⚡ **Real-time Messaging:** Seamless, instant conversations between users.
 - 🎨 **Modern UI/UX:** Responsive, accessible, and aesthetically pleasing interface.
 - 🔒 **User Authentication:** Secure login and account management.
 - 📱 **Mobile Friendly:** Fully responsive design for all devices.
